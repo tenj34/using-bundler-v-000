@@ -4,8 +4,7 @@ gem "hashie"
 gem "sinatra"
 gem "octokit"
 gem "pry"
-gem "awesomeprint"
-
+gem install awesomeprint -v '0.0.1'
 group :development do
   gem "pry"
 end
