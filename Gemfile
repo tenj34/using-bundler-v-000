@@ -1,7 +1,10 @@
 source "https://rubygems.org"
 gem "rspec"
-gem "sinatra"
-gem "hashie"
+gem "Hashie"
+gem "Sinatra"
+gem "Octokit"
+gem "Pry"
+AwesomePrint
 
 group :development do
   gem "pry"
