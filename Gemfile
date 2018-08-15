@@ -4,7 +4,7 @@ gem "Hashie"
 gem "Sinatra"
 gem "Octokit"
 gem "Pry"
-AwesomePrint
+gem "AwesomePrint"
 
 group :development do
   gem "pry"
